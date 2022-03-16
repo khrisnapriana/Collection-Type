@@ -26,6 +26,8 @@ public class ListOlahraga {
         //remove() untuk menghapus data dari list olahraga
         olahraga.remove(3);
         olahraga.remove(5);
+        //add() untuk coba menambah data yang sama pada list olahraga
+        olahraga.add("sepak bola");
 
         //melihat list olahraga setelah menghapus beberapa data
         System.out.println("\n List olahraga II:");
